@@ -1,0 +1,15 @@
+senha ubuntu/phpmyadmin: Sen"crs
+
+usuario w10 atividade avaliativa: .\\senacrs
+senha: Sen@crs
+
+ubuntu atividade avaliativa: 
+procurar em domínios: srvubuntu.local
+nome: admin
+nome do servidor: srvubuntu
+nome de utilizador(login): user
+senha servidor e root(sudo -i): senacrs
+
+pfsense login padrão:
+usuario: admin
+senha: pfsense

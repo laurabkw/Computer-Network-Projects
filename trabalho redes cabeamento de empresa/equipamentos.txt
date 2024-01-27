@@ -1,0 +1,23 @@
+térreo: 
+televendas - 17 PCs, 1 impressora, 2 câmeras
+marketing - 4 PCs, 1 impressora, 1 câmera
+TI - 1 PC
+CPD - 1 câmera
+lobby - 1 PC, 1 impressora, 2 câmeras
+diretoria - 2 PCs, 1 impressora
+
+segundo andar:
+televendas - 32 PCs, 2 impressoras, 2 câmeras
+contas a pagar - 5 PCs, 1 impressora, 2 câmeras
+desenvolvimento - 2 PCs, 2 câmeras
+
+terceiro andar:
+exportação - 4 PCs, 1 impressora, 1 câmera
+fiscal - 4 PCs, 1 impressora, 1 câmera
+contas a receber - 4 PCs, 1 câmera
+refeitorio - 1 câmera
+SAC - 8 PCs, 1 impressora, 1 câmera
+
+1 mini rack por andar
+colocar switchs nos andares apenas para as cameras
+colocar patch panels

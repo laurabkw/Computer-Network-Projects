@@ -1,0 +1,35 @@
+AP Ubiquiti 6 X9: R$1.500,00 | https://www.amazon.com.br/alcance-Ubiquiti-Adaptador-inclu%C3%ADdo-U6-LR-US/dp/B08V1PF29L/ref=pd_bxgy_sccl_1/135-7686947-3170715?pd_rd_w=zQvVg&content-id=amzn1.sym.758f3509-df88-4265-806c-565a738dc05d&pf_rd_p=758f3509-df88-4265-806c-565a738dc05d&pf_rd_r=MVGB8BGQDAPCW74E2E6A&pd_rd_wg=qhNx7&pd_rd_r=cc776263-28e9-42fd-933c-4e7f8765fd40&pd_rd_i=B08V1PF29L&psc=1
+
+Fonte Poe Ubiquiti Original 48v 0.5a Unifi Gigabit POE-48-24W-G-BR Unifi X9: R$164,56 | https://www.amazon.com.br/Fonte-Ubiquiti-Original-Gigabit-POE-48-24W-G-BR/dp/B081ZHF6ZM/ref=pd_bxgy_sccl_1/135-7686947-3170715?pd_rd_w=MNxKy&content-id=amzn1.sym.758f3509-df88-4265-806c-565a738dc05d&pf_rd_p=758f3509-df88-4265-806c-565a738dc05d&pf_rd_r=V0WQ3M307FF75F7KEC3D&pd_rd_wg=lSVSj&pd_rd_r=e4e81a1e-57a4-4e10-bc68-7187e76e47de&pd_rd_i=B081ZHF6ZM&psc=1
+
+Firewall CheckPoint UTM-1 Edge Internet Router SBX-100-1: R$499,00 | https://produto.mercadolivre.com.br/MLB-2661793573-checkpoint-utm-1-edge-internet-firewall-router-sbx-100-1-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic
+
+Mikrotik Routerboard RB4011: R$3.243,90 | https://www.magazineluiza.com.br/mikrotik-routerboard-rb4011igs-56hacq2hnd-in-wifi-l5/p/ag33ec2819/in/rtdr/?&seller_id=efacini&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=67172&gclid=EAIaIQobChMI0q2x35X9_QIVDdORCh1pVgBbEAQYASABEgKtgvD_BwE&gclsrc=aw.ds
+
+Mercusys Routerboard: R$100,97 | https://produto.mercadolivre.com.br/MLB-2771960624-roteador-wireless-n-300mbps-mw301r-br-com-2-antenas-5dbi-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic
+
+Rack Servidor Fechado De Parede Preto 16u 19: R$989,90 | https://produto.mercadolivre.com.br/MLB-1634386194-rack-servidor-fechado-de-parede-preto-16u-19-580mm-canthie-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic
+
+Rack Power Balun HD 8000 16 portas: R$889,49 X2| https://www.tudoforte.com.br/rack-power-balun-hd-8000-4k-16-canais-de-ate-8mp-onix-security?parceiro=6347&utm_source=google&utm_medium=cpc&utm_term=&campaignid=16821666659&adgroupid=&targetid=&adid=&rnd=5988674683682910898&gclid=EAIaIQobChMI-eqj4Kju_QIVOBvUAR3y-A4OEAQYASABEgIY4vD_BwE
+
+Switch TP-Link 48 Portas Gigabit - TL-SG1048 X2: R$2.729,26 | https://www.kabum.com.br/produto/190096/switch-tp-link-48-portas-gigabit-tl-sg1048?srsltid=AfAwrE5Sr8F4ZnA9AlHgl6A7iRSWoxblX6tJ3J84TKXUV-ARPaxxzUJc7o0
+
+Camera Dome IP Intelbras VIP 1230 D Full HD 1080p Sensor 1/2.7” Lente 2.8mm 30m IR PoE IP67 H.265 X44: R$358,10 | https://www.amazon.com.br/Camera-Intelbras-1080p-Sensor-Lente/dp/B08Z6L423F/ref=asc_df_B08Z6L423F/?tag=googleshopp00-20&linkCode=df0&hvadid=379787181806&hvpos=&hvnetw=g&hvrand=8805805271080962495&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001688&hvtargid=pla-1404341378080&psc=1
+
+Patch cord Cat.6 U/UTP - CM - Azul - 2,44M - 1989798-8 - COMMSCOPE: R$43,52 X34 | https://loja.eletronor.com.br/patch-cord-cat-6-u-utp---cm---azul---244m---1989798-8---commscope/p?idsku=2912&gclid=EAIaIQobChMIoZ_2947u_QIV80FIAB3CbQg6EAQYAiABEgJN7PD_BwE
+
+Patch Panel Cat6 Furukawa Gigalan 24 Portas U/UTP RJ45: R$1.276,60 X2 | https://www.hr2tech.com.br/produtos/patch-panel-cat6-furukawa-gigalan-24-portas-u-utp-rj45/?pf=gs&variant=127961199
+
+Super Kit Com 10 Tomadas 10a 4x2 Branca Lunare Schneider: R$288,62 X6   | https://produto.mercadolivre.com.br/MLB-1194467236-super-kit-com-10-tomadas-10a-4x2-branca-lunare-schneider-_JM?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic&quantity=6
+
+Gravador de Vídeo Intelbras Multi HD, NVR, 16 Canais - Mhdx 1216: R$ 1.211,51 X3 | https://www.kabum.com.br/produto/278700/gravador-de-video-intelbras-multi-hd-nvr-16-canais-mhdx-1216?gclid=EAIaIQobChMIxo-o0rGl_gIVChhMCh3TlQ7bEAQYAyABEgIy4PD_BwE
+
+No Break: 2
+
+Tomada de Rede: 34
+
+Total por enquanto R$
+
+Mão de obra requerida: R$
+garantia 1 ano
+suporte técnico
